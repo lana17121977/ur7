@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.AssemblyInfo.cs
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\bin\Debug\net7.0\zadacha52.exe
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\bin\Debug\net7.0\zadacha52.deps.json
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\bin\Debug\net7.0\zadacha52.runtimeconfig.json
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\bin\Debug\net7.0\zadacha52.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\bin\Debug\net7.0\zadacha52.pdb
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\refint\zadacha52.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.pdb
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\zadacha52.genruntimeconfig.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\ur7\zadacha52\obj\Debug\net7.0\ref\zadacha52.dll
